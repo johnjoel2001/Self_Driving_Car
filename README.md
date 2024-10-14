@@ -1,10 +1,13 @@
 <b>Self-Driving Car Simulation Project</b>
+
 This project focuses on simulating a self-driving car system aimed at reducing human errors and making driving safer, more efficient, and enjoyable. The simulation was built using Python, with various modules for visualizing and managing the self-driving experience.
 
 <b>Problem Statement</b>
+
 Human error is the leading cause of road traffic accidents, accounting for around 94% of serious crashes. Factors like misjudgment, speeding, distraction (e.g., phone use), and driving under the influence are significant contributors. This project aims to address these issues by simulating autonomous vehicles that can reduce human error and improve road safety.
 
 <b>Objective</b>
+
 The primary objectives of the self-driving car simulation are:
 
 <b>Minimize Human Errors:</b> Reduce accidents caused by human factors.
@@ -27,7 +30,8 @@ The primary objectives of the self-driving car simulation are:
 
 <b>Motivation</b>
 
-The motivation behind this project is to make roads safer by reducing the incidence of human error. Additionally, it aims to make driving less stressful and more enjoyable by introducing self-driving technologies that allow people to socialize, work, or relax during their commute.
+The motivation behind this project is to make roads safer by reducing the incidence of human error.
+Additionally, it aims to make driving less stressful and more enjoyable by introducing self-driving technologies that allow people to socialize, work, or relax during their commute.
 
 <b>Technologies Used</b>
 
